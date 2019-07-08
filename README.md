@@ -1,6 +1,6 @@
 # CAN-MICRO-EXPRESSION-BE-RECOGNIZED-BASED-ON-SINGLE-APEX-FRAME
 Micro-expression apex frame detection
-
+There is a bug in my code. It is updated.
 @inproceedings{li2018can,
   title={Can Micro-Expression be Recognized Based on Single Apex Frame?},
   author={Li, Yante and Huang, Xiaohua and Zhao, Guoying},
